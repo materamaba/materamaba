@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 <h3 align="center">A young IT student who still needs and wants to learn a lot.</h3>
 
 <h2 align="center">Schools:</h2>
-<a href="">
+<a align="center" href="">
   <img src="https://kasprzak.edu.pl/dane/plan__171022/images/Logo_Kasprzak.png" width="100" height="100" alt="kasprzak">
   <h3 align="center">Technikum Elektroniczne nr 1 w Warszawie</h3>
   <p align="center">2018-2024</p>
