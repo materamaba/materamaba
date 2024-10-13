@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 <ul>
   <li>
     <a href="https://kasprzak.edu.pl/" display="flex">
-      <img align="left src="https://kasprzak.edu.pl/dane/plan__171022/images/Logo_Kasprzak.png" width="60" height="60" alt="kasprzak">
+      <img align="left" src="https://kasprzak.edu.pl/dane/plan__171022/images/Logo_Kasprzak.png" width="60" height="60" alt="kasprzak">
       <div><b>Technikum Elektroniczne nr 1 w Warszawie</b>
       <p>2018-2024</p><div>
   </li>
