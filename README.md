@@ -18,11 +18,16 @@ Here are some ideas to get you started:
 <h3 align="center">A young IT student who still needs and wants to learn a lot.</h3>
 
 <h2 align="center">Schools:</h2>
-<a align="center" href="https://kasprzak.edu.pl/">
-  <img align="center" src="https://kasprzak.edu.pl/dane/plan__171022/images/Logo_Kasprzak.png" width="100" height="100" alt="kasprzak">
-  <h3 align="center">Technikum Elektroniczne nr 1 w Warszawie</h3>
-  <p align="center">2018-2024</p>
-</div>
+<ul>
+  <li>
+    <a href="https://kasprzak.edu.pl/">
+  <img src="https://kasprzak.edu.pl/dane/plan__171022/images/Logo_Kasprzak.png" width="100" height="100" alt="kasprzak">
+  <h4>Technikum Elektroniczne nr 1 w Warszawie</h4>
+  <p>2018-2024</p>
+  </li>
+</ul>
+
+
 <!--h3 align="left">Connect with me:</h3>
 <p align="left">
 </p-->
