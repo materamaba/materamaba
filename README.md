@@ -23,14 +23,16 @@ Here are some ideas to get you started:
     <a href="https://kasprzak.edu.pl/" display="flex">
       <img align="left" src="https://kasprzak.edu.pl/dane/plan__171022/images/Logo_Kasprzak.png" width="60" height="60" alt="Logo Kasprzak">
       <div><b>Technikum Elektroniczne nr 1 w Warszawie</b>
-      <p>2018-2024</p></div>
+      <p>2018-2024</p><div>
   </li>
   <li>
-    <a href="https://p.lodz.pl/" display="flex">
-      <img align="left" src="https://p.lodz.pl/themes/custom/politechnika/logo.svg" width="100" height="60" alt="Logo Politechnika Łódzka">
-      <div><b style="white-space: nowrap">Politechnika Łódzka</b>
-      <p>2024-present</p><div>
-  </li>
+  <a href="https://p.lodz.pl/" class="school">
+    <img src="https://p.lodz.pl/themes/custom/politechnika/logo.svg" width="100" height="60" alt="Logo Politechnika Łódzka">
+    <div><b>Politechnika Łódzka</b>
+      <p>2024–present</p></div>
+  </a>
+</li>
+
 </ul>
 
 
