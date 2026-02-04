@@ -27,7 +27,7 @@ Here are some ideas to get you started:
   </li>
   <li>
   <a href="https://p.lodz.pl/" class="school">
-    <img src="https://p.lodz.pl/themes/custom/politechnika/logo.svg" width="100" height="60" alt="Logo Politechnika Łódzka">
+    <img src="https://p.lodz.pl/themes/custom/politechnika/logo.svg" width="100" height="60" alt="Logo Politechnika Łódzka" align="left">
     <div><b>Politechnika Łódzka</b>
       <p>2024–present</p></div>
   </a>
