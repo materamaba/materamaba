@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 👋, I'm Mateusz!</h1>
-<h3 align="center">A young IT student who is always hungry for new knowledge and challenges. 🚀</h3>
+<h3 align="center">A young IT student who still needs and wants to learn a lot. 🚀</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=materamaba&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile Views" />
