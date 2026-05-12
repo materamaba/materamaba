@@ -13,7 +13,6 @@ I'm form small city near **Warsaw**, but currently I'm studying in **Łódź**.
 
 - 🔭 I’m currently studying at the **Lodz University of Technology**.
 - 🌱 I’m constantly learning and upgrading my tech stack.
-- 💬 Ask me about anything related to my projects or studies!
 
 ---
 
