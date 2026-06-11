@@ -7,16 +7,15 @@
 
 ---
 
-## 👨‍💻 About Me
+## About Me
 
 I'm form small city near **Warsaw**, but currently I'm studying in **Łódź**.
 
-- 🔭 I’m currently studying at the **Lodz University of Technology**.
-- 🌱 I’m constantly learning and upgrading my tech stack.
+- I’m currently studying at the **Lodz University of Technology**.
 
 ---
 
-## 🎓 Education
+## Education
 
 <table>
   <tr>
@@ -45,16 +44,16 @@ I'm form small city near **Warsaw**, but currently I'm studying in **Łódź**.
 
 ---
 
-## 🛠️ Languages & Tools
+## Languages & Tools
 
-### 💻 Current Tech Stack
+### Current Tech Stack
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,js,php,bootstrap,mysql,flask,graphql,figma,py&theme=dark" alt="Current Stack"/>
   </a>
 </p>
 
-### 🌱 What I want to learn next
+### What I want to learn next
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=c,docker,git,mongodb,nodejs,react,unity,unreal,vue&theme=dark" alt="Learning Stack"/>
@@ -63,7 +62,7 @@ I'm form small city near **Warsaw**, but currently I'm studying in **Łódź**.
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=materamaba&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Mateusz's GitHub Stats" />
